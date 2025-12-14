@@ -1,0 +1,15 @@
+p {
+    color: orangered;
+}
+div {
+    background-color: lightblue;
+}
+ol {
+    font-family: courier new;
+}
+li {
+    font-weight: bold;
+}
+h1 {
+    text-decoration: underline;
+}
