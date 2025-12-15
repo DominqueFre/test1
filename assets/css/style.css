@@ -15,5 +15,5 @@ h1 {
     text-decoration: underline;
 }
 body {
-    background-image: url(../images/snowytrees.jpg);
+    background-image: url("../images/snowytrees.jpg");
 }
