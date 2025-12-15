@@ -15,6 +15,7 @@ h1 {
     text-decoration: underline;
 }
 body {
+    background-color: bisque;
     background-image: url("../images/snowytrees.jpg");
     background-size: cover;
 }
