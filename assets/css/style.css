@@ -16,4 +16,5 @@ h1 {
 }
 body {
     background-image: url("../images/snowytrees.jpg");
+    background-size: cover;
 }
